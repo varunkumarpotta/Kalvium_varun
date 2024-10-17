@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|c:\\users\\varun\\onedrive\\documents\\my learning\\projectk\\projectk\\projectk\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|solutionrelative:projectk\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|c:\\users\\varun\\onedrive\\documents\\my learning\\projectk\\projectk\\projectk\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|solutionrelative:projectk\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|c:\\users\\varun\\onedrive\\documents\\my learning\\projectk\\projectk\\projectk\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|solutionrelative:projectk\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|c:\\users\\varun\\onedrive\\documents\\my learning\\projectk\\projectk\\projectk\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|solutionrelative:projectk\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|c:\\users\\varun\\onedrive\\documents\\my learning\\projectk\\projectk\\projectk\\models\\productingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|solutionrelative:projectk\\models\\productingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|c:\\users\\varun\\onedrive\\documents\\my learning\\projectk\\projectk\\projectk\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|solutionrelative:projectk\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|c:\\users\\varun\\onedrive\\documents\\my learning\\projectk\\projectk\\projectk\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|solutionrelative:projectk\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|c:\\users\\varun\\onedrive\\documents\\my learning\\projectk\\projectk\\projectk\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|solutionrelative:projectk\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|c:\\users\\varun\\onedrive\\documents\\my learning\\projectk\\projectk\\projectk\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|solutionrelative:projectk\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|c:\\users\\varun\\onedrive\\documents\\my learning\\projectk\\projectk\\projectk\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B88A3CC2-7D88-4CE4-89C0-C2983D2112BE}|ProjectK\\ProjectK.csproj|solutionrelative:projectk\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProjectK\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ProjectK\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvxgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:09:57.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectK\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProjectK\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:49:55.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "ProjectK\\Models\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Models\\Ingredient.cs",
+              "RelativeToolTip": "ProjectK\\Models\\Ingredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:25:15.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductIngredient.cs",
+              "DocumentMoniker": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Models\\ProductIngredient.cs",
+              "RelativeDocumentMoniker": "ProjectK\\Models\\ProductIngredient.cs",
+              "ToolTip": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Models\\ProductIngredient.cs",
+              "RelativeToolTip": "ProjectK\\Models\\ProductIngredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:23:30.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProjectK\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Models\\Category.cs",
+              "RelativeToolTip": "ProjectK\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:20:26.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProjectK\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Models\\Product.cs",
+              "RelativeToolTip": "ProjectK\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:11:53.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ProjectK\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "ProjectK\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:41:47.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ProjectK\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ProjectK\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T10:51:49.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ProjectK\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Models\\OrderItem.cs",
+              "RelativeToolTip": "ProjectK\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:06:59.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ProjectK\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\varun\\OneDrive\\Documents\\my learning\\ProjectK\\ProjectK\\ProjectK\\Models\\Order.cs",
+              "RelativeToolTip": "ProjectK\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:58:21.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
